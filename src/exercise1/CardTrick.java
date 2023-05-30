@@ -45,6 +45,7 @@ public class CardTrick {
     }
 
     private static void printInfo() {
+        
 
         System.out.println("Congratulations, you guessed right!");
         System.out.println();
@@ -59,7 +60,6 @@ public class CardTrick {
 
         System.out.println("My hobbies:");
         System.out.println("-- Watching Movies");
-        System.out.println("-- Cooking");
         System.out.println("-- Reading Books");
         System.out.println("-- Riding my Car");
 
